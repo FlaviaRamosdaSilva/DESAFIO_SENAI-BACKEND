@@ -163,3 +163,5 @@ console.log("Iniciando a aplicação na porta " + porta);
 
 //Definição de uma rota com prefixo '/api' para todas as rotas
 app.use("/api", router);
+
+
